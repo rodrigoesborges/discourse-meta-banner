@@ -1,4 +1,4 @@
 svg_icons:
-  default: "fa-rss|fa-fist-raised"
+  default: "rss|fist-raised"
   type: "list"
   list_type: "compact"
